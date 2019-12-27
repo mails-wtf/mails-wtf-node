@@ -1,0 +1,38 @@
+{
+  "name": "email-finder",
+  "version": "0.0.3",
+  "description": "Official mails.wtf API library client for node.js. Find Emails with this library",
+  "author": "mails.wtf <sushant@mails.wtf> (https://mails.wtf)",
+  "homepage": "https://mails.wtf",
+  "keywords": [
+    "mails.wtf",
+    "email finder",
+    "find emails",
+    "mails wtf",
+    "mails.wtf",
+    "free email finder",
+    "email finding api",
+    "email finder api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mails-wtf/mails-wtf-node"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  },
+  "bugs": {
+    "url": "https://github.com/mails-wtf/mails-wtf-node/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
